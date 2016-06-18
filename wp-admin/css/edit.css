@@ -1577,6 +1577,6 @@ table.links-table {
 	/* Align Add Media + Visual + Text tabs */
 	#wp-content-media-buttons a {
 		font-size: 14px;
-		padding: 0 10px 0 10px;
+		padding: 6px 10px;
 	}
 }
