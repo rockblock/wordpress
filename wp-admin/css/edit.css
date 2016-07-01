@@ -1511,10 +1511,8 @@ table.links-table {
 	}
 
 	#wp-content-media-buttons a {
-		font-size: 16px;
-		line-height: 37px;
-		height: 39px;
-		padding: 0 20px 0 15px;
+		font-size: 14px;
+		padding: 6px 10px;
 	}
 
 	.wp-media-buttons span.wp-media-buttons-icon,
