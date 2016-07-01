@@ -1520,7 +1520,8 @@ table.links-table {
 	.wp-media-buttons span.wp-media-buttons-icon,
 	.wp-media-buttons span.jetpack-contact-form-icon {
 		width: 22px !important;
-		margin-left: -2px !important;
+		margin-top: -3px !important;
+		margin-left: -5px !important;
 	}
 
 	.wp-media-buttons .add_media span.wp-media-buttons-icon:before,
