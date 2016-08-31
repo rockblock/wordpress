@@ -391,6 +391,9 @@ input.regular-text {
 input.small-text {
 	width: 50px;
 	padding: 1px 6px;
+}
+
+label input.small-text {
 	margin-top: -4px;
 }
 
